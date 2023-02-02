@@ -17,3 +17,4 @@
 - https://github.com/leocifuentesCL/leocifuentesCL.github.io
 - https://github.com/sebastian-oyarzo/sebastian-oyarzo.github.io
 - https://github.com/Fernanda553/Fernanda553.github.io
+- https://github.com/edisongom/edisongom.github.io
