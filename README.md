@@ -14,6 +14,6 @@
 - [Desafio 5](https://github.com/BalwantSight/fdsw-github)
 
 ##Proyectos Forkeados:
-- 
-- 
--
+- https://github.com/leocifuentesCL/leocifuentesCL.github.io
+- https://github.com/sebastian-oyarzo/sebastian-oyarzo.github.io
+- https://github.com/Fernanda553/Fernanda553.github.io
